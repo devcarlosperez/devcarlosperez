@@ -65,5 +65,8 @@ I am a first-year student in **Web Application Development**, passionate about b
 
 ## GitHub Stats
 
-[![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcarlosperez&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/devcarlosperez)
-[![Carlos's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devcarlosperez&theme=material-palenight)](https://github.com/devcarlosperez)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devcarlosperez&show_icons=true&theme=tokyonight&hide_border=true" alt="Carlos's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcarlosperez&theme=material-palenight" alt="Carlos's GitHub streak" />
+</p>
+
