@@ -67,6 +67,6 @@ I am a first-year student in **Web Application Development**, passionate about b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devcarlosperez&show_icons=true&theme=tokyonight&hide_border=true" width="400" height="180" alt="Carlos's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcarlosperez&theme=material-palenight" width="400" height="180" alt="Carlos's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcarlosperez&theme=material-palenight" width="400" height="200" alt="Carlos's GitHub streak" />
 </p>
 
