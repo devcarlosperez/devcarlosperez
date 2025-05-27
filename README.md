@@ -40,7 +40,7 @@ I am a first-year student in **Web Application Development**, passionate about b
 ## Projects
 
 - 🖥️ **Library Management System (Java + Database):** A desktop app to manage library resources efficiently.  
-  🔗 [Biblioteca](https://github.com/devcarlosperez/Biblioteca)
+  🔗 [Library](https://github.com/devcarlosperez/Biblioteca)
 
 - 🌐 **The Lord of the Rings Fan Site (React):** Responsive React website with reusable components.  
   🔗 [the-lord-of-the-rings-project](https://github.com/devcarlosperez/the-lord-of-the-rings-project)
