@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hi, I'm Carlos Pérez</b> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Cat typing"/></h1>
+<h1 align="center"><b>Hi, I'm Carlos Pérez</b> <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Cat typing" /></h1>
 
-<img align="right" width="300px" alt="Typing Cat" src="https://media.giphy.com/media/3o7TKtdvl16kH0N6dy/giphy.gif" />
+<img align="right" width="300px" alt="Typing Cat" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" />
 
-<img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" width="30px" alt="About me"/> ***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" alt="About me" /> ***About me***
 
-I’m a first-year student in **Web Application Development**, passionate about both frontend and backend technologies. I love building real projects and exploring different tools in the tech ecosystem.  
+I am a first-year student in **Web Application Development**, passionate about both frontend and backend technologies. I love building real projects and exploring different tools in the tech ecosystem.  
 - 🌱 I’m currently learning more about backend development and database integrations.  
 - 👯 I’m excited to collaborate on open source projects.  
 - ✔ Ask me anything, I’m happy to help!  
