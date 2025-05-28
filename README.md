@@ -32,7 +32,7 @@ I am a first-year student in **Web Application Development**, passionate about b
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/odoo.svg" height="50" alt="Odoo"/>
+  <img src="https://www.odoo.com/web/image/brand/1/logo?unique=8e0f2c5" height="50" alt="Odoo"/>
 </p>
 
 ---
