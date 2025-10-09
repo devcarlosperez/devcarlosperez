@@ -4,11 +4,11 @@
 
 <img src="" width="30px" alt="" /> ***About me***
 
-I am a first-year student in **Web Application Development**, passionate about both frontend and backend technologies. I love building real projects and exploring different tools in the tech ecosystem.  
+I am a second-year student in **Web Application Development**, passionate about both frontend and backend technologies. I love building real projects and exploring different tools in the tech ecosystem.  
 - 🌱 I’m currently learning more about backend development and database integrations.  
 - 👯 I’m excited to collaborate on open source projects.  
 - ✔ Ask me anything, I’m happy to help!  
-- Outside of tech, I enjoy 🕹️ gaming, 🎵 music, and 📚 reading tech blogs.
+- Outside of tech, I enjoy 🕹️ gaming, and 🎵 music.
 
 ---
 
