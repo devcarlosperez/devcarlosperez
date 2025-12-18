@@ -50,6 +50,9 @@ I am a second-year student in **Web Application Development**, passionate about 
 - 🧪 **Interactive Japan-themed Website (Vanilla JS):** Frontend practice with DOM manipulation.  
   🔗 [japan-project](https://github.com/devcarlosperez/japan-project)
 
+- 🚨 **CanAccesible – Incident Reporting Web App (Group Project):**  
+  Web application to report accessibility and urban incidents in the Canary Islands, developed collaboratively using frontend and backend technologies.  
+  🔗 [CanAccesible](https://github.com/devcarlosperez/CanAccesible)
 ---
 
 ## Currently...
