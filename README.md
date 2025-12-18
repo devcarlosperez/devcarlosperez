@@ -61,15 +61,3 @@ I am a second-year student in **Web Application Development**, passionate about 
 - Email: carlosperezsantana04@gmail.com  
 - GitHub: [devcarlosperez](https://github.com/devcarlosperez)  
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devcarlosperez&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Carlos's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcarlosperez&theme=material-palenight" width="400" alt="Carlos's GitHub streak" />
-</p>
-
