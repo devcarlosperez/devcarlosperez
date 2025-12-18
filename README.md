@@ -33,6 +33,8 @@ I am a second-year student in **Web Application Development**, passionate about 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux"/>
   <img src="logo-odoo.png" height="40" width="100" alt="Odoo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express"/>
 </p>
 
 ---
@@ -52,7 +54,7 @@ I am a second-year student in **Web Application Development**, passionate about 
 
 ## Currently...
 
-🔧 Doing an internship working with **Odoo ERP**, gaining real-world enterprise software experience.
+🚀 Working on a **group project** developing a web application to **report incidents in the Canary Islands**, applying both frontend and backend technologies and collaborating as a team.
 
 ---
 
