@@ -4,8 +4,8 @@
 
 <img src="" width="30px" alt="" /> ***About me***
 
-I am a second-year student in **Web Application Development**, passionate about both frontend and backend technologies. I love building real projects and exploring different tools in the tech ecosystem.  
-- 🌱 I’m currently working at Livvo Hotels as a business internship student.  
+I am a Web Developer Full-Stack, passionate about both frontend and backend technologies. I love building real projects and exploring different tools in the tech ecosystem.  
+- 🌱 I’m currently working at personal projects.  
 - 👯 I’m excited to collaborate on open source projects.  
 - ✔ Ask me anything, I’m happy to help!  
 - Outside of tech, I enjoy 🕹️ gaming, and 🎵 music.
@@ -54,11 +54,6 @@ I am a second-year student in **Web Application Development**, passionate about 
 - 🚨 **CanAccesible – Incident Reporting Web App (Group Project):**  
   Web application to report accessibility and urban incidents in the Canary Islands, developed collaboratively using frontend and backend technologies.  
   🔗 [CanAccesible](https://github.com/devcarlosperez/CanAccesible)
----
-
-## Currently...
-
-🚀 Working on a **group project** developing a web application to **report incidents in the Canary Islands**, applying both frontend and backend technologies and collaborating as a team.
 
 ---
 
